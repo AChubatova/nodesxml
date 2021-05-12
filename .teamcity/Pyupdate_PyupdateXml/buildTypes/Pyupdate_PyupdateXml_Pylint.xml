@@ -13,7 +13,7 @@
           <param name="isCoverageEnabled" value="false" />
           <param name="isTestReportingEnabled" value="true" />
           <param name="pythonVersion" value="python3" />
-          <param name="scriptArguments" value="tests/*" />
+          <param name="scriptArguments" value="test/*" />
           <param name="teamcity.step.mode" value="default" />
           <param name="virtualenvEnvName" value=".venv" />
           <param name="virtualenvFile" value="requirements.txt" />
