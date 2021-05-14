@@ -28,7 +28,7 @@
           <param name="envTool" value="none" />
           <param name="isTestReportingEnabled" value="true" />
           <param name="pythonVersion" value="python3" />
-          <param name="scriptArguments" value="tests/01_basic_test.py" />
+          <param name="scriptArguments" value="tests/01_basic_test2.py" />
           <param name="teamcity.step.mode" value="default" />
           <param name="virtualenvEnvName" value=".venv" />
           <param name="virtualenvFile" value="requirements.txt" />
